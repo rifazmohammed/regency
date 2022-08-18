@@ -1,0 +1,47 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Issac's Regency - Sulthan Bathery,Wayanad.
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_A4A16F07_BFBE_E45E_41E4_8DC37F12E1CD.label = Issacs Regency
+album_A4A16F07_BFBE_E45E_41E4_8DC37F12E1CD_0.label = IMG-20180804-WA0053
+album_A4A16F07_BFBE_E45E_41E4_8DC37F12E1CD_1.label = IMG-20180804-WA0056
+album_A4A16F07_BFBE_E45E_41E4_8DC37F12E1CD_2.label = IMG-20180804-WA0046111
+album_A4A16F07_BFBE_E45E_41E4_8DC37F12E1CD_3.label = IMG-20180804-WA0049222
+panorama_B5FEFB69_BF8B_ECD2_41E6_0D4974D1F430.label = Auditorium
+panorama_B600E90B_BF8B_EC56_41E3_97CC7BE0ACD3.label = Swimming Pool
+panorama_B6030B6E_BF8A_ECAE_41DC_91B517EDFCA8.label = Standard Room
+panorama_B60312D2_BF8A_BDF6_41D1_A6140886824D.label = Regent Suite
+panorama_B6032DAF_BF8A_A7AE_41C7_D7E0DD201ADE.label = Reception
+panorama_B60333F9_BF8A_A3B2_41DF_FA3CE27DA1C5.label = Royal Suite
+panorama_B6033A35_BF8A_6CB2_41C4_CE5E7C90965E.label = Tripple-Bed Room
+panorama_B60377BB_BF8A_E3B6_41E7_5D7B41884EB4.label = Washroom-Royal Suite
+panorama_B603B079_BF8A_BCB2_41AC_8D172254EFB4.label = Royal Suite
+panorama_B603CAE8_BF8A_6DD2_41BB_5BC1FBFC8502.label = Hotel Entrance
+panorama_B60C9134_BF8A_5CB2_41CD_AD3E2854C366.label = Ayurvedic Spa
+panorama_B60CCF20_BF8A_A452_41D3_E45A479980D1.label = Washroom-Standard Room
+panorama_B60CD671_BF8A_A4B2_41DE_2DE9ACD1B50E.label = Washroom - Regent Suite
+panorama_B60CFDB5_BF8A_67B2_41E6_8992713CFE6B.label = Washroom, Tripple-bed room
+panorama_B60D5790_BF8B_A472_41C8_23E746EDA54E.label = Ayurvedic Spa
+panorama_B60D8452_BF8B_A4F6_41DF_B7C9DA50C11E.label = Ayurvedic Spa
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://www.issacsregency.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://www.issacsregency.com
